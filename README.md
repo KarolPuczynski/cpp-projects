@@ -1,2 +1,1 @@
-# cpp-projects
-My Freshman Year Projects
+# C++ projects
